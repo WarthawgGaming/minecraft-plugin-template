@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/template.png" alt="Minecraft Plugin Template Banner">
+</p>
+
 # Minecraft Plugin Template
 
 Template and starter framework for developing Minecraft Java plugins using Paper and Spigot APIs.
