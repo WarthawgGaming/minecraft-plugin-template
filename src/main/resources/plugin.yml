@@ -1,0 +1,17 @@
+name: ExamplePlugin
+version: 1.0.0
+main: com.warthawggaming.example.ExamplePlugin
+api-version: '1.17'
+author: WarthawgGaming
+website: https://warthawggaming.com
+
+commands:
+  example:
+    description: Example command
+    usage: /example
+    permission: example.use
+
+permissions:
+  example.use:
+    description: Allows use of the example command
+    default: true
